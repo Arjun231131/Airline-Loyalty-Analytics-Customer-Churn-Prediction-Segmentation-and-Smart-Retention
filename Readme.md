@@ -145,6 +145,6 @@ Python notebooks and application files
 
 ## Author
 
-Tanishq Gupta
+Arjun Kumar Gupta
 
 Project: Unlocking Behavioral Intelligence in Airline Loyalty Programs
